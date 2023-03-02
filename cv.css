@@ -1,0 +1,22 @@
+.foto-perfil {
+    background: aquamarine;
+}
+.imagen-titulo {
+    text-align: left;
+}
+
+.Datos-personales {
+    text-align: right;
+    font-size: 3em;
+    padding: 30px;
+    margin-top: -650px;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
